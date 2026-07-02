@@ -9,11 +9,11 @@ Building modern web applications with React, Next.js, FastAPI and AI.
 
 ## 🚀 About Me
 
-- 🔭 Currently building **AI-powered Full Stack applications**
-- 🌱 Learning **React, Next.js, TypeScript, Docker & Cloud**
-- 🤝 Open to collaborating on **Open Source and AI projects**
-- 💬 Ask me about **JavaScript, React, Python, FastAPI and SQL**
-- 🎯 Goal: Become a **Production-Ready AI & Full Stack Engineer**
+-  Currently building **AI-powered Full Stack applications**
+-  Learning **React, Next.js, TypeScript, Docker & Cloud**
+-  Open to collaborating on **Open Source and AI projects**
+-  Ask me about **JavaScript, React, Python, FastAPI and SQL**
+-  Goal: Become a **Production-Ready AI & Full Stack Engineer**
 
 ---
 
