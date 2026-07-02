@@ -46,16 +46,6 @@ Building modern web applications with React, Next.js, FastAPI and AI.
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=sharmaa27&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vipul-sharma-721586202)
